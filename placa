@@ -1,0 +1,4 @@
+$nomention
+$description[Aqui está sua placa com o nome de: **$message**]
+$image[https://pairgalo.sirv.com/Spins/depositphotos_31199479-stock-photo-happy-people-with-white-board.jpg?text.0.text=$replaceText[$message; ;%20;-1]&text.0.position.gravity=center&text.0.position.y=10%25&text.0.size=22&text.0.color=000000]
+$argsCheck[1>; <@$authorID> Coloque uma Mensagem para aparecer na placa!]
